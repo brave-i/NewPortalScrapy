@@ -1,0 +1,3 @@
+project: 388265
+requirements_file: ./requirements.txt
+image: true
